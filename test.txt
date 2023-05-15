@@ -9,6 +9,7 @@ cmd-z # undo
 git init
 git add . 
 git status 
+git commit -m "a message to explain what changed"
 
 
 -- add -- commit -- pull -- push -- 
