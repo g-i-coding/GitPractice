@@ -1,0 +1,14 @@
+new-item test.txt # creates new item on windows
+touch test.txt # creates new item on linux 
+cmd-s # saves the day 
+cmd-c # copy 
+cmd-v # paste 
+cmd-a # highlight all
+cmd-z # undo  
+
+git init
+git add . 
+git status 
+
+
+-- add -- commit -- pull -- push -- 
